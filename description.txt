@@ -1,0 +1,14 @@
+Loan_ID : Unique Loan application ID
+Gender : Gender of applicant male or female
+Married : Married Status! Yes or no
+Dependents:Dependents of applicant
+Education : Education, Graduate or Not Graduate
+Self_Employed : Self_Employed! Yes or No
+ApplicantIncome : Applicant total Income
+CoapplicantIncome : Coapplicant total Income
+LoanAmount : Loan Amount apply for loan
+Loan_Amount_Term : Loan Amount Term
+Credit_History : Credit History
+Property_Area : Property Area
+Loan_Status : Loan Status, approved or not
+Total_Income : Total Icome
