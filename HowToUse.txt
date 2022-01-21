@@ -1,0 +1,3 @@
+1. Tải file min_ds-env.yml từ link của thầy Kiên
+2. Chạy lệnh conda remove -n min_ds-env --all
+3. Mở file Final_Project.ipynb lên, nhấn Clear output và Run All.
