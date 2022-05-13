@@ -1,5 +1,0 @@
-1. Tải file min_ds-env.yml từ link của thầy Kiên
-2. Chạy lệnh conda env create --file min_ds-env.yml
-3. Chạy lệnh conda activate min_ds-env
-4. Chạy lệnh jupyter notebook
-3. Mở file Final_Project.ipynb lên, nhấn Clear output và Run All.
